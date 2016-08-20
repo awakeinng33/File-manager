@@ -1,0 +1,32 @@
+e:\DirFileProject\bin\Release\DirFileProject.exe
+e:\DirFileProject\bin\Release\DirFileProject.pdb
+e:\DirFileProject\obj\Release\ResolveAssemblyReference.cache
+e:\DirFileProject\obj\Release\DirFileProject.Form1.resources
+e:\DirFileProject\obj\Release\DirFileProject.Properties.Resources.resources
+e:\DirFileProject\obj\Release\DirFileProject.csproj.GenerateResource.Cache
+e:\DirFileProject\obj\Release\DirFileProject.exe
+e:\DirFileProject\obj\Release\DirFileProject.pdb
+D:\Новая папка (2)\Новая папка\файловый менеджер\bin\Release\DirFileProject.exe
+D:\Новая папка (2)\Новая папка\файловый менеджер\bin\Release\DirFileProject.pdb
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Release\ResolveAssemblyReference.cache
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Release\DirFileProject.Form1.resources
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Release\DirFileProject.Properties.Resources.resources
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Release\DirFileProject.csproj.GenerateResource.Cache
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Release\DirFileProject.exe
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Release\DirFileProject.pdb
+K:\файловый менеджер\bin\Release\DirFileProject.exe
+K:\файловый менеджер\bin\Release\DirFileProject.pdb
+K:\файловый менеджер\obj\Release\ResolveAssemblyReference.cache
+K:\файловый менеджер\obj\Release\DirFileProject.Form1.resources
+K:\файловый менеджер\obj\Release\DirFileProject.Properties.Resources.resources
+K:\файловый менеджер\obj\Release\DirFileProject.csproj.GenerateResource.Cache
+K:\файловый менеджер\obj\Release\DirFileProject.exe
+K:\файловый менеджер\obj\Release\DirFileProject.pdb
+E:\файловый менеджер3\bin\Release\DirFileProject.exe
+E:\файловый менеджер3\bin\Release\DirFileProject.pdb
+E:\файловый менеджер3\obj\Release\ResolveAssemblyReference.cache
+E:\файловый менеджер3\obj\Release\DirFileProject.Form1.resources
+E:\файловый менеджер3\obj\Release\DirFileProject.Properties.Resources.resources
+E:\файловый менеджер3\obj\Release\DirFileProject.csproj.GenerateResource.Cache
+E:\файловый менеджер3\obj\Release\DirFileProject.exe
+E:\файловый менеджер3\obj\Release\DirFileProject.pdb

@@ -1,0 +1,120 @@
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\bin\Debug\DirFileProject.exe
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\bin\Debug\DirFileProject.pdb
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\obj\Debug\DirFileProject.Form1.resources
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\obj\Debug\DirFileProject.Properties.Resources.resources
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\obj\Debug\DirFileProject.exe
+C:\Documents\Book In Progress\C#.DOC\Source\Chapter14\DirFileProject\obj\Debug\DirFileProject.pdb
+D:\Programms\Source\Chapter14\DirFileProject\obj\Debug\DirFileProject.exe
+D:\Programms\Source\Chapter14\DirFileProject\obj\Debug\DirFileProject.pdb
+e:\DirFileProject\obj\Debug\DirFileProject.exe
+e:\DirFileProject\obj\Debug\DirFileProject.pdb
+e:\DirFileProject\bin\Debug\DirFileProject.exe
+e:\DirFileProject\bin\Debug\DirFileProject.pdb
+e:\DirFileProject\obj\Debug\ResolveAssemblyReference.cache
+e:\DirFileProject\obj\Debug\DirFileProject.Form1.resources
+e:\DirFileProject\obj\Debug\DirFileProject.Properties.Resources.resources
+e:\DirFileProject\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+e:\файловый менеджер\obj\Debug\DirFileProject.exe
+e:\файловый менеджер\obj\Debug\DirFileProject.pdb
+e:\файловый менеджер\bin\Debug\DirFileProject.exe
+e:\файловый менеджер\bin\Debug\DirFileProject.pdb
+e:\файловый менеджер\obj\Debug\ResolveAssemblyReference.cache
+e:\файловый менеджер\obj\Debug\DirFileProject.Form1.resources
+e:\файловый менеджер\obj\Debug\DirFileProject.Properties.Resources.resources
+e:\файловый менеджер\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Debug\DirFileProject.exe
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Debug\DirFileProject.pdb
+D:\Новая папка (2)\Новая папка\файловый менеджер\bin\Debug\DirFileProject.exe
+D:\Новая папка (2)\Новая папка\файловый менеджер\bin\Debug\DirFileProject.pdb
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Debug\ResolveAssemblyReference.cache
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Debug\DirFileProject.Form1.resources
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Debug\DirFileProject.Properties.Resources.resources
+D:\Новая папка (2)\Новая папка\файловый менеджер\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+K:\файловый менеджер\obj\Debug\DirFileProject.exe
+K:\файловый менеджер\obj\Debug\DirFileProject.pdb
+K:\файловый менеджер\bin\Debug\DirFileProject.exe
+K:\файловый менеджер\bin\Debug\DirFileProject.pdb
+K:\файловый менеджер\obj\Debug\ResolveAssemblyReference.cache
+K:\файловый менеджер\obj\Debug\DirFileProject.Form1.resources
+K:\файловый менеджер\obj\Debug\DirFileProject.Properties.Resources.resources
+K:\файловый менеджер\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+E:\файловый менеджер3\obj\Debug\DirFileProject.exe
+E:\файловый менеджер3\obj\Debug\DirFileProject.pdb
+E:\файловый менеджер3\bin\Debug\DirFileProject.exe
+E:\файловый менеджер3\bin\Debug\DirFileProject.pdb
+E:\файловый менеджер3\obj\Debug\ResolveAssemblyReference.cache
+E:\файловый менеджер3\obj\Debug\DirFileProject.Form1.resources
+E:\файловый менеджер3\obj\Debug\DirFileProject.Properties.Resources.resources
+E:\файловый менеджер3\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\obj\Debug\DirFileProject.exe
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\obj\Debug\DirFileProject.pdb
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\bin\Debug\DirFileProject.exe
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\bin\Debug\DirFileProject.pdb
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\obj\Debug\DirFileProject.csprojResolveAssemblyReference.cache
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\obj\Debug\DirFileProject.Form1.resources
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\obj\Debug\DirFileProject.Properties.Resources.resources
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+C:\Users\awakening\Downloads\файловыйменеджер3\файловый менеджер3\bin\Debug\DirFileProject.exe.config
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\bin\Debug\DirFileProject.exe.config
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.exe
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.pdb
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\bin\Debug\DirFileProject.exe
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\bin\Debug\DirFileProject.pdb
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.csprojResolveAssemblyReference.cache
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.Form1.resources
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.Properties.Resources.resources
+C:\Users\awakening\Downloads\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\bin\Debug\DirFileProject.exe.config
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.exe
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.pdb
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\bin\Debug\DirFileProject.exe
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\bin\Debug\DirFileProject.pdb
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.csprojResolveAssemblyReference.cache
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.Form1.resources
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.Properties.Resources.resources
+D:\загрузки старой винды\файловыйменеджер3\filemanager24-09\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\DirFileProject.exe.config
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.exe
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.pdb
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\DirFileProject.exe
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\DirFileProject.pdb
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\mscorlib.dll
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\normidna.nlp
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\normnfc.nlp
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\normnfd.nlp
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\normnfkc.nlp
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\normnfkd.nlp
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.Form1.resources
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.Properties.Resources.resources
+C:\Users\Ксения\Downloads\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\DirFileProject.exe.config
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.exe
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.pdb
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\DirFileProject.exe
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\bin\Debug\DirFileProject.pdb
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.csprojResolveAssemblyReference.cache
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.Form1.resources
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.Properties.Resources.resources
+F:\filemanager-v0_2\filemanager-v0.1\filemanager-v0.1\filemanager24-09\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\bin\Debug\DirFileProject.exe.config
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\obj\Debug\DirFileProject.exe
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\obj\Debug\DirFileProject.pdb
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\bin\Debug\DirFileProject.exe
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\bin\Debug\DirFileProject.pdb
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\obj\Debug\DirFileProject.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\obj\Debug\DirFileProject.Form1.resources
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\obj\Debug\DirFileProject.Properties.Resources.resources
+C:\Users\Ксения\Downloads\filemanager02-12\filemanager02-12\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\bin\Debug\DirFileProject.exe.config
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\bin\Debug\DirFileProject.exe
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\bin\Debug\DirFileProject.pdb
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\obj\Debug\DirFileProject.csprojResolveAssemblyReference.cache
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\obj\Debug\DirFileProject.Form1.resources
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\obj\Debug\DirFileProject.Properties.Resources.resources
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\obj\Debug\DirFileProject.csproj.GenerateResource.Cache
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\obj\Debug\DirFileProject.exe
+D:\Законченные проекты\filemanager_final\filemanager_final\filemanager02-12\obj\Debug\DirFileProject.pdb
